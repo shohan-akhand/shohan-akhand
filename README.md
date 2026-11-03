@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mattrika Technologies<br>🌱 I’m currently learning UI/UX<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Mattrika Technologies
 
 
 ## 🌐 Socials:
